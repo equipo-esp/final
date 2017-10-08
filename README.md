@@ -95,6 +95,8 @@ mueva fuera del polígono).
                 });
 ```
 
+![mapa](https://github.com/equipo-esp/final/blob/master/02.png)
+
 La otra forma en la que se colorea el mapa es cuando se selecciona alguno de los 4 distintos tipos de destino. 
 De esta manera, se colorearán todos los destinos que pertenezcan a ese tipo, habiendo definido un color para cada uno. 
 Por lo tanto, definimos en nuestro dominio el tipo de destino: “centros de playa, fronteriza, ciudades interior y grandes ciudades” 
@@ -124,6 +126,7 @@ y como rango el color que le corresponderá a cada tipo respectivamente: “azul
           //    console.log(radio);
                  if (d.properties.TIPO===radio) {return colores(radio) ;}});
 ```
+![mapa](https://github.com/equipo-esp/final/blob/master/05.png)
 
 Posteriormente agregamos las barras que están ligadas a los datos. La idea es que se despliegue la información de acuerdo al 
 tipo de destino, a los datos (ya sean habitaciones disponibles, habitaciones ocupadas o porcentaje de ocupación) y al año que 
