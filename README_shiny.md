@@ -1,4 +1,4 @@
-# Shiny
+# Trabajo final Taller de Geoinformática Shiny
 
 ### Diana Fabián, Tania Gómez y Mario González ###
 
