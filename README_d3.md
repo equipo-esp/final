@@ -1,4 +1,4 @@
-# Trabajo final Taller de Geoinformática
+# Trabajo final Taller de Geoinformática d3
 ### Diana Fabián, Tania Gómez y Mario González ###
 
 Para comenzar el trabajo se creó un archivo .shp propio, con base en los datos descargados de la Secretaría de Turismo 
